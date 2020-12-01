@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.Console", "FactoryMethod.Console\FactoryMethod.Console.csproj", "{B72F5D24-9DB1-4652-81DA-08C75A8FCF6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.ConsoleApp", "FactoryMethod.Console\FactoryMethod.ConsoleApp.csproj", "{B72F5D24-9DB1-4652-81DA-08C75A8FCF6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

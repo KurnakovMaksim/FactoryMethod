@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using FactoryMethod.Console.Clients;
+using FactoryMethod.Console.Creators;
+using FactoryMethod.Console.Creators.Abstract;
 
-namespace FactoryMethod.Console
+namespace FactoryMethod.ConsoleApp
 {
     class Program
     {
         static void Main(string[] args)
         {
+            new Client().Main();
+            System.Console.ReadLine();
         }
     }
 }
